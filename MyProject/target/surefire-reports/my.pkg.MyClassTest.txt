@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: my.pkg.MyClassTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.061 s <<< FAILURE! - in my.pkg.MyClassTest
-nullTest(my.pkg.MyClassTest)  Time elapsed: 0.034 s  <<< FAILURE!
-java.lang.AssertionError: expected null, but was:<hello>
-	at my.pkg.MyClassTest.nullTest(MyClassTest.java:25)
-
