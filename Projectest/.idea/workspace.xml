@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1788da73-2af6-461c-a523-be98ec57d415" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__asm_asm_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__asm_asm_commons_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__asm_asm_tree_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__com_jgeppert_struts2_bootstrap_struts2_bootstrap_plugin_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__com_jgeppert_struts2_jquery_struts2_jquery_plugin_3_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__commons_collections_commons_collections_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__commons_io_commons_io_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__javassist_javassist_3_11_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__javax_el_javax_el_api_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__javax_enterprise_cdi_api_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__javax_interceptor_javax_interceptor_api_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__javax_servlet_servlet_api_3_0_alpha_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__ognl_ognl_3_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__org_apache_struts_struts2_cdi_plugin_2_3_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__org_apache_struts_struts2_core_2_3_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__org_apache_struts_xwork_xwork_core_2_3_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__org_apache_velocity_velocity_1_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__org_freemarker_freemarker_2_3_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__org_hibernate_hibernate_core_4_3_7_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_4_3_7_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__org_jboss_jandex_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__org_jboss_spec_javax_ejb_jboss_ejb_api_3_1_spec_1_0_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__oro_oro_2_0_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/Projet_Env.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/java/Lanuel_Charlotte/business/LoginService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/java/Lanuel_Charlotte/controller/BaseAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/java/Lanuel_Charlotte/controller/HelloAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/java/Lanuel_Charlotte/controller/LoginAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/java/Lanuel_Charlotte/dao/UsuarioQueryHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/java/Lanuel_Charlotte/exceptions/UsuarioNAutorizado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/java/Lanuel_Charlotte/interceptor/ValidaLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/java/Lanuel_Charlotte/model/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/java/pkg/PremiereClasse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/webapp/WEB-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/webapp/WEB-INF/classes/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/webapp/WEB-INF/xxx-ds.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/webapp/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/webapp/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/src/main/webapp/sistema.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/classes/Lanuel_Charlotte/business/LoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/classes/Lanuel_Charlotte/controller/BaseAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/classes/Lanuel_Charlotte/controller/HelloAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/classes/Lanuel_Charlotte/controller/LoginAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/classes/Lanuel_Charlotte/dao/UsuarioQueryHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/classes/Lanuel_Charlotte/exceptions/UsuarioNAutorizado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/classes/Lanuel_Charlotte/interceptor/ValidaLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/classes/Lanuel_Charlotte/model/Usuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/classes/PremiereClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/classes/struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/classes/Lanuel_Charlotte/business/LoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/classes/Lanuel_Charlotte/controller/BaseAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/classes/Lanuel_Charlotte/controller/HelloAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/classes/Lanuel_Charlotte/controller/LoginAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/classes/Lanuel_Charlotte/dao/UsuarioQueryHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/classes/Lanuel_Charlotte/exceptions/UsuarioNAutorizado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/classes/Lanuel_Charlotte/interceptor/ValidaLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/classes/Lanuel_Charlotte/model/Usuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/classes/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/classes/PremiereClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/classes/struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/lib/asm-3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/lib/asm-commons-3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/lib/asm-tree-3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/lib/commons-collections-3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/lib/commons-fileupload-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/lib/commons-io-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/lib/commons-lang-2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/lib/freemarker-2.3.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/lib/javassist-3.11.0.GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/lib/ognl-3.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/lib/oro-2.0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/lib/struts2-bootstrap-plugin-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/lib/struts2-cdi-plugin-2.3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/lib/struts2-core-2.3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/lib/struts2-jquery-plugin-3.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/lib/velocity-1.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/lib/xwork-core-2.3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/WEB-INF/xxx-ds.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet_Env/target/webapp/sistema.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vagrantfile" beforeDir="false" afterPath="$PROJECT_DIR$/../Vagrantfile" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1080455746">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="951" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Projectest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projectest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Projectest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projectest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Projectest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projectest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Projectest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projectest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Projectest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projectest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pkg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Projectest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projectest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Projectest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projectest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Projectest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projectest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pkg" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569097707502" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1788da73-2af6-461c-a523-be98ec57d415" name="Default Changelist" comment="" />
+      <created>1569096861768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569096861768</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="951" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32945284" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/my/pkg/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/my/pkg/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
